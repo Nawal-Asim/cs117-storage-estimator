@@ -1,3 +1,4 @@
+Storage Estimator - Main Version
 Project Purpose: Calculating storage in mb from given gb
 How to run the program: give input in gb
 
